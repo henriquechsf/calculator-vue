@@ -48,7 +48,7 @@ export default {
         color: #fff;
     }
 
-    .button-operation:active {
+    .button.operation:active {
         background-color: #fa8231cc;
     }
 </style>
